@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Deco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{FD33115C-D518-4EE2-A5B9-B6A2D99D1AF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{BD10AF1E-82D8-499F-95C2-5F7730FCD676}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FD33115C-D518-4EE2-A5B9-B6A2D99D1AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD33115C-D518-4EE2-A5B9-B6A2D99D1AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD33115C-D518-4EE2-A5B9-B6A2D99D1AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD10AF1E-82D8-499F-95C2-5F7730FCD676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD10AF1E-82D8-499F-95C2-5F7730FCD676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD10AF1E-82D8-499F-95C2-5F7730FCD676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD10AF1E-82D8-499F-95C2-5F7730FCD676}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
