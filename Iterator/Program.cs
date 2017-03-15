@@ -16,7 +16,9 @@ namespace Iterator
             var arrayMenuIterator = arrayMenu.CreateIterator();
             var arrayListMenuIterator = arrayListMenu.CreateIterator();
 
+            Console.WriteLine("ArrayMenu:");
             arrayMenuIterator.PrintMenu();
+            Console.WriteLine("\nArrayListMenu:");
             arrayListMenuIterator.PrintMenu();
 
             Console.ReadKey();
