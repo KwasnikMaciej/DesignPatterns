@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{BD10AF1E-82D8-499F-95C2-5F7730FCD676}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{342F0A0A-5B0E-460E-98A0-A821A34DBB8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BD10AF1E-82D8-499F-95C2-5F7730FCD676}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD10AF1E-82D8-499F-95C2-5F7730FCD676}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD10AF1E-82D8-499F-95C2-5F7730FCD676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{342F0A0A-5B0E-460E-98A0-A821A34DBB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342F0A0A-5B0E-460E-98A0-A821A34DBB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342F0A0A-5B0E-460E-98A0-A821A34DBB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342F0A0A-5B0E-460E-98A0-A821A34DBB8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
