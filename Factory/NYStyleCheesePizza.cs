@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace FactoryMethod
+﻿namespace FactoryMethod
 {
     public class NYStyleCheesePizza : Pizza
     {

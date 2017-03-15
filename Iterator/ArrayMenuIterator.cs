@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Iterator
+﻿namespace Iterator
 {
     public class ArrayMenuIterator : IIterator
     {
